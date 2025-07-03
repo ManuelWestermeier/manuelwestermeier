@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManuelWestermeier/ManuelWestermeier/main/banner.gif" alt="Welcome Banner" />
@@ -28,11 +27,13 @@
 
 ## 💻 Technologiestack
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/SoundDesign-FULLY?logo=soundcloud&logoColor=white" alt="Sound Design" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/SoundDesign-E4405F?logo=soundcloud&logoColor=white" alt="Sound Design" />
+</p>
 
 ---
 
